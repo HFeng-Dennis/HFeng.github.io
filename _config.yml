@@ -16,12 +16,9 @@ minimal: false            # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "HFeng.github.io/Hongyu-Dennis-CV-august.pdf", title: "CV"}
-  - {file: "HFeng.github.io/Transcript_HONGYUFENG.pdf",  title: "Transcript"}
+  - {file: "/HFeng.github.io/Hongyu-Dennis-CV-august.pdf", title: "CV"}
+  - {file: "/HFeng.github.io/Transcript_HONGYUFENG.pdf",  title: "Transcript"}
   - {url: "https://www.linkedin.com/in/hongyu-dennis-feng-3799251a4/",  title: "LinkedIn"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "hfeng24@jh.edu"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
