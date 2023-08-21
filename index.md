@@ -21,7 +21,7 @@ My research interests include:
 * Teaching Assistant (BME 3001: Biomedical Modeling and Design I, Chinese University of Hong Kong, Shenzhen, Fall 2021-2022)  
 
 ## Internship
-R&D Engineer Intern at [SHENZHEN CORE MEDICAL TECHNOLOGY Co.](https://www.coretechmed.com/about-us/)
+* R&D Engineer Intern at [SHENZHEN CORE MEDICAL TECHNOLOGY Co.](https://www.coretechmed.com/about-us/)
 
 ## Award and Honors
 
