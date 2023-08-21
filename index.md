@@ -24,8 +24,9 @@ My research interests include:
 R&D Engineer Intern at [SHENZHEN CORE MEDICAL TECHNOLOGY Co.](https://www.coretechmed.com/about-us/)
 
 ## Award and Honors
+
 ### Johns Hopkins University
-* Departmental Fellowship, Fall 2023-2024
+* Departmental Fellowship, Fall 2023-2024  
 
 ### Chinese University of Hong Kong, Shenzhen
 * Outstanding Graduate, 2022
