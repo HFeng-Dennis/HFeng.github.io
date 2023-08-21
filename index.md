@@ -35,7 +35,7 @@ R&D Engineer Intern at [SHENZHEN CORE MEDICAL TECHNOLOGY Co.](https://www.corete
 * Bowen Scholarship (merit-based scholarship), 2018-2022
 
 ## Publication 
-Lian, K., **Feng, H.**, Liu, S., Wang, K., Liu, Q., Deng, L., Wang, G., Chen, Y., & Liu, G. (2022). Insulin quantification towards early diagnosis of prediabetes/diabetes. Biosensors & Bioelectronics, 203, 114029.
+Lian, K., **Feng, H.**, Liu, S., Wang, K., Liu, Q., Deng, L., Wang, G., Chen, Y., & Liu, G. (2022). Insulin quantification towards early diagnosis of prediabetes/diabetes. Biosensors & Bioelectronics, 203, 114029. <DOI: 10.1016/j.bios.2022.114029>
 
 ## Technical Strengths
 * Specialized: RiboGreen Assay; Luciferase Assay; BCA Assay; Zetasizer Operation; Cell Culture;   Plasmid Construction; Protein Expression; Western Blot; HPLC; LNP Formulation; Microfluidics;   Gel Electrophoresis; PCR.
