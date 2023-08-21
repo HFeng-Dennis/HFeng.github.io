@@ -1,6 +1,17 @@
 ---
 layout: page
-title: "blog"
+title: "Biography"
 ---
 
-I am Hongyu Feng, a MSE student in Chemical and Biomolecualr Engineering at Johns Hopkins University. 
+I am Hongyu Feng, an MSE student in Chemical and Biomolecular Engineering at Johns Hopkins University. 
+
+
+
+## Section 2
+
+test
+
+
+## Section 3 
+
+test
