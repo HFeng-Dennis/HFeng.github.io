@@ -18,6 +18,7 @@ minimal: false            # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "/Hongyu-Dennis-CV-august.pdf", title: "CV"}
   - {file: "/Cover_Letter_Hongyu_Feng.pdf",  title: "Cover Letter"}
+  - {url: "/Cover_Letter_Hongyu_Feng.pdf",  title: "LinkedIn"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "hfeng24@jh.edu"}
