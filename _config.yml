@@ -16,8 +16,8 @@ minimal: false            # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "Hongyu-Dennis-CV-august.pdf", title: "CV"}
-  - {file: "resume_Hongyu Feng_23_summer_August.pdf",  title: "Resume"}
+  - {file: "https://github.com/HFeng-Dennis/HFeng.github.io/blob/5c9bddb6db8376861139120ae9d75d1e6f5cd87b/Hongyu-Dennis-CV-august.pdf", title: "CV"}
+  - {file: "https://github.com/HFeng-Dennis/HFeng.github.io/blob/5c9bddb6db8376861139120ae9d75d1e6f5cd87b/resume_Hongyu%20Feng_23_summer_August.pdf",  title: "Resume"}
   - {url: "https://www.linkedin.com/in/hongyu-dennis-feng-3799251a4/",  title: "LinkedIn"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
