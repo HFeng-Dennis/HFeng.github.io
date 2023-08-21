@@ -16,8 +16,8 @@ minimal: false            # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/Hongyu-Dennis-CV-august.pdf", title: "CV"}
-  - {url: "https://github.com/HFeng-Dennis/HFeng.github.io/blob/aeddfc7e5b719914fc9e98deef41d5010d60279d/Transcript_HONGYUFENG.pdf",  title: "Transcript"}
+  - {url: "https://HFeng-Dennis.github.io/HFeng.github.io/Hongyu-Dennis-CV-august.pdf", title: "CV"}
+  - {url: "https://HFeng-Dennis.github.io/HFeng.github.io/Transcript_HONGYUFENG.pdf",  title: "Transcript"}
   - {url: "https://www.linkedin.com/in/hongyu-dennis-feng-3799251a4/",  title: "LinkedIn"}
 
 comments:
