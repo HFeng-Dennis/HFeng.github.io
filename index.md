@@ -13,12 +13,13 @@ I am an extremely self-driven and adaptable student with a passion for **RNA dru
 My research interests include:  
 * RNA delivery, Lipid Nanoparticles, Liposomes, extracellular vesicles/exosomes, RNA vaccine
 * Nanomedicine in blood-brain barrier delivery and neurodegenerative disease 
-* Cancer therapy and protein delivery
+* Cancer therapy and targeted nanoparticle delivery
 * AAV delivery and viral delivery vectors
 
 ## Teaching Experience
-* Teaching Assistant (EN.540.635Software Carpentry, Johns Hopkins University, Fall 2023-2024)  
-* Teaching Assistant (BME 3001: Biomedical Modeling and Design I, Chinese University of Hong Kong, Shenzhen, Fall 2021-2022)  
+* Teaching Assistant (EN.540.635: Software Carpentry, Johns Hopkins University, Fall 2023-2024)  
+* Teaching Assistant (BME 3001: Biomedical Modeling and Design I, Chinese University of Hong Kong, Shenzhen, Fall 2021-2022)
+* Lecturer (Weekly Cantonese lecture, Chinese University of Hong Kong, Shenzhen, Fall 2018-Spring 2022)
 
 ## Internship
 * R&D Engineer Intern at [SHENZHEN CORE MEDICAL TECHNOLOGY Co.](https://www.coretechmed.com/about-us/)
