@@ -17,7 +17,7 @@ My research interests include:
 * AAV delivery and viral delivery vectors
 
 ## Teaching Experience
-* Teaching Assistant (EN.540.635: Software Carpentry, Johns Hopkins University, Fall 2023-2024)  
+* Graduate Grader (EN.540.635: Software Carpentry, Johns Hopkins University, Fall 2023-2024)  
 * Teaching Assistant (BME 3001: Biomedical Modeling and Design I, Chinese University of Hong Kong, Shenzhen, Fall 2021-2022)
 * Lecturer (Weekly Cantonese lecture, Chinese University of Hong Kong, Shenzhen, Fall 2018-Spring 2022)
 
