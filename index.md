@@ -5,7 +5,7 @@ title: "Biography"
 
 I am Hongyu Feng, a Master's student in Chemical and Biomolecular Engineering at Johns Hopkins University.  
 Currently participating in research at [Center for Nanomedicine](https://www.hopkinsmedicine.org/wilmer/research/center-for-nanomedicine) at Johns Hopkins Medicine under the supervision of [Prof. Laura Ensign](https://www.hopkinsmedicine.org/profiles/details/laura-ensign).  
-I am an extremely self-driven and adaptable student with a passion for **RNA drug delivery, blood-brain barrier delivery, AAV delivery, etc**. If you want to reach out to me, you can always find me at <hfeng24@jh.edu>.   
+I am an extremely self-driven and adaptable student with a passion for **RNA drug delivery, cancer targeting delivery, blood-brain barrier delivery, AAV delivery, etc**. If you want to reach out to me, you can always find me at <hfeng24@jh.edu>.   
 
 <span style="color:red">**I am actively seeking a Ph.D. position in drug delivery.**</span>
 
